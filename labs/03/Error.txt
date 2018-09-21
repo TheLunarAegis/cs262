@@ -1,0 +1,17 @@
+/*Student:		Jordan Caleb Hordyk
+ *Date:			9-21-2018
+ *Class:		CS 336
+ *Project:		lab_03
+ *Professor:	Keith VanderLinden
+ */
+
+So, I went through the lab exercise and i got to the end of 2.4 on the website.
+My code errored out and said something about "R"
+I asked the Professor in class and he suggested I start over or submit what I have.
+I started over and got to the same point and the same thing happened again.
+I have no idea how to fix this and I have no time to redo this again.
+I would've finished the code if there was no error, but I have no idea what to do at this point.
+
+I'm sorry I have no screenshot to submit from my phone,
+but I did submit a screenshot of the error.
+My code will be on github.
