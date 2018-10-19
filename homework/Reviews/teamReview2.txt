@@ -1,0 +1,41 @@
+Student:	Jordan Caleb Hordyk
+Date:		10-18-2018
+Class:		CS 262
+Project:	homework_02
+Professor:	Keith VanderLinden
+
+
+a.	The Trello page shows much more activity than my group's.
+
+b.	The user interface model shows a great concept for a user interface.
+	It may not be super polished, but that's not what we're going for right now.
+	I don't understand why they have a link to the main activity from the sidebar,
+		unless they plan on renaming it to "logout"
+	
+	The User stories are very straight and to the point, no fluff.
+	(playing stupid here \/ )
+	What does "Elo" stand for?  Maybe just a quick definition in the model.
+	For the user, do they need some place to have their scores for specific sports stored?
+		Right now it just looks like they only store wins, losses, upcomming matches,
+		email, and best sport.  No links to specific sport rankings per player.
+		It looks like the score is stored in the elo, but the user has no connection to it.
+	
+c.	It looks like no new commits since Sunday.
+	I could not get the app to run, however that could be my own user error.
+		Maybe a quick refresher on github durring class or lab?
+
+d.	Usability section looks too generic, all apps should be easy to pick up and use.
+	Looks like they're being too ambitious with the touch gestures.
+	
+	Readability could be condensed into one main point:
+		The response time should be 2 seconds or less.
+	All other points in this section are either intuitive or repetative.
+	
+	Supportablitity is good
+	
+	Preformance Working well under stress is a bit ambitous but I don't know the limitations.
+	For on mulitple devices, are we talking the same account or just multiple people on at
+		the same time?
+	should always be the most updated, should be for all apps unless old data is needed.
+
+

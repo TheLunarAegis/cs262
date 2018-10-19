@@ -1,0 +1,14 @@
+Student:	Jordan Hordyk
+Lab:		07
+Date:		10-19-2018
+Class:		CS 262
+Professor:	Keith vander Linden
+
+
+7.1
+
+Player(playerID, emailAddress, name)
+PlayerGame(gameID, playerID, score, money, piece, location)
+Game(gameID, time)
+PlayerProperty(propertyID, PlayerID)
+Property(playerID, numberHouses, numberHotels)
