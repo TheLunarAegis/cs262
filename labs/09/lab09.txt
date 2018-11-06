@@ -1,0 +1,16 @@
+Student:    Jordan Hordyk
+Date:       11-5-2018
+Lab:        09
+Class:      CS 262
+Professor:  Keith Vander Linden
+
+
+9.1 a.  The hello.java has a GET method.  PlayerResource.java has 2 GET methods, and one PUT, POST and DELETE.
+    b.  i.    Typical HTTP commands: GET, PUT, POST and DELETE.
+        ii.   1.  SQL queries the database, whereas JDBC statement objects interact with the java code.
+              2.  JDBC results acts as a table, but can only look at one row at a time.
+                  List<player> has no connections between elements.
+                  SQL uses tuples to represent a table.
+        iii.  Gets a value from a table if a value exists in that spot, but gives null if there is no value.
+    c.  i.    Stores monopoly players as objects, which are easier to manipulate.
+        ii.   Object Orientation.
