@@ -1,0 +1,20 @@
+Student:	Jordan Hordyk
+Date:		11-16-2018
+Class:		CS 262
+Lab:		11
+Professor:	Keith Vander Linden
+
+
+Code Formatting:
+Homework 01:		not much changed
+
+Homework 02:		Not much changed, mostly formated correctly.
+
+Code Analyzation:
+Homework 01:		Left the error about using string.format, could not get to work
+					Left the error about backup on SDK version 23 and up, could not figure out
+					Left the error about not being indeaxble by google search.  I see no value in doing this.
+					Left the error about using autofillHint, could not get to work because of version compatability.
+
+Homework 02:		Left the error about backup on SDK version 23 and up, could not figure out
+					Left the error about not being indeaxble by google search.  I see no value in doing this.
