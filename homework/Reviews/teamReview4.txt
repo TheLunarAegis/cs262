@@ -1,0 +1,19 @@
+Student:	Jordan Hordyk
+Date:		12-01-2018
+Class:		CS 262
+Project:	homework_04
+Professor:	Keith VanderLinden
+
+
+The user test of Team: Pilot was very well organized.  I showed up to the lab
+and they were sitting there ready for me to start testing.  One member was
+still resetting the app from the previous user, and the other gave me the
+starting talk about the app.  However, when I got my hands on the app, a lot
+of functionality was missing, but the interface was working.  There were only
+a few setting that worked and not much of the backend worked at all.  I even
+ran into a dead-end with the app, stuck on a screen with no back arrow.
+
+
+There are about 18 commits since last week, and assuming everyone commited the
+same amount, that's about 3 commits per person.  I'd say that's a good amount
+of commits.

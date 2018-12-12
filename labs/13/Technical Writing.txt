@@ -1,0 +1,20 @@
+Open the app.
+Make a new project.
+Choose that project.
+Start the timer by pressing the triangle button.
+Time how long you work on that project.
+Stop the timer when you stop working.
+Open the hamburger menu.
+Pick, view times per project, page.
+Look at the graph.
+
+The above got the below grade, at most.
+I made some changes after the demo time ran out.
+2.7
+
+The sample text was not all that consolidated, 
+in fact it was pretty hard to read.
+
+The CS department homepage was even worse, it used the word:
+accredited, which is way more intensive to read than any 
+word in my writing.

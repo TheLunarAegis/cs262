@@ -1,4 +1,10 @@
 <resources>
     <string name="app_name">calculator</string>
     <string name="final_value_view">___</string>
+    <string name="calculator_title_text">Calculator!</string>
+    <string name="value_1_text">Value 1</string>
+    <string name="value_2_text">Value 2</string>
+    <string name="calculate_button_text">Calculate</string>
+    <string name="final_value_text">Final Value</string>
+    <string name="enter_value_hint">Enter Value</string>
 </resources>

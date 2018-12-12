@@ -8,8 +8,6 @@ import android.widget.EditText;
 import android.widget.Spinner;
 import android.widget.TextView;
 
-import java.util.Locale;
-
 public class Calculator extends AppCompatActivity {
 
     private EditText    value1ET;
@@ -21,14 +19,14 @@ public class Calculator extends AppCompatActivity {
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_calculator);
-        Spinner spinner = (Spinner) findViewById(R.id.spinner);
+        Spinner spinner = findViewById(R.id.spinner);
         ArrayAdapter<CharSequence> adapter = ArrayAdapter.createFromResource(this, R.array.operators, android.R.layout.simple_spinner_item);
         adapter.setDropDownViewResource(android.R.layout.simple_spinner_dropdown_item);
         spinner.setAdapter(adapter);
-        value1ET =          findViewById(R.id.value_1_entry);
-        value2ET =          findViewById(R.id.value_2_entry);
-        final_valueTV =     findViewById(R.id.final_value_view);
-        operator_spinner =  findViewById(R.id.spinner);
+        value1ET = findViewById(R.id.value_1_entry);
+        value2ET = findViewById(R.id.value_2_entry);
+        final_valueTV = findViewById(R.id.final_value_view);
+        operator_spinner = spinner;
     }
 
     public void calculate(View view) {

@@ -15,7 +15,7 @@
         android:layout_marginTop="8dp"
         android:layout_marginEnd="32dp"
         android:layout_marginRight="32dp"
-        android:text="Calculator!"
+        android:text="@string/calculator_title_text"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintStart_toStartOf="parent"
@@ -29,7 +29,7 @@
         android:layout_marginStart="32dp"
         android:layout_marginLeft="32dp"
         android:layout_marginTop="24dp"
-        android:text="Value 1"
+        android:text="@string/value_1_text"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toBottomOf="@+id/calculator_title" />
 
@@ -40,7 +40,7 @@
         android:layout_marginStart="32dp"
         android:layout_marginLeft="32dp"
         android:layout_marginTop="24dp"
-        android:text="Value 2"
+        android:text="@string/value_2_text"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toBottomOf="@+id/value_1_entry" />
 
@@ -53,6 +53,7 @@
         android:layout_marginRight="16dp"
         android:ems="10"
         android:inputType="numberSigned"
+        android:hint="@string/enter_value_hint"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintTop_toBottomOf="@+id/calculator_title" />
 
@@ -65,6 +66,7 @@
         android:layout_marginRight="16dp"
         android:ems="10"
         android:inputType="numberSigned"
+        android:hint="@string/enter_value_hint"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintTop_toBottomOf="@+id/value_1_entry" />
 
@@ -83,7 +85,7 @@
         android:layout_marginStart="100dp"
         android:layout_marginLeft="100dp"
         android:layout_marginTop="32dp"
-        android:text="Calculate"
+        android:text="@string/calculate_button_text"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toBottomOf="@+id/spinner"
         android:onClick="calculate"
@@ -96,7 +98,7 @@
         android:layout_marginStart="32dp"
         android:layout_marginLeft="32dp"
         android:layout_marginTop="24dp"
-        android:text="Final Value"
+        android:text="@string/final_value_text"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toBottomOf="@+id/calculate_button" />
 
